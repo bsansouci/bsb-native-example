@@ -1,0 +1,9 @@
+{
+  "name": "bsb-native-example",
+  "sources": "src",
+  "ocamlfind-packages": ["lwt.unix", "lwt.ppx"],
+  "entries": [{
+    "kind": "bytecode",
+    "main": "Index"
+  }]
+}
