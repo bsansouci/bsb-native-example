@@ -1,6 +1,6 @@
 {
   "name": "bsb-native-example",
   "dependencies": {
-    "bsb-native": "bsansouci/bsb-native#ocamlfind-trial"
+    "bsb-native": "bsansouci/bsb-native"
   }
 }
