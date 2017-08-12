@@ -1,6 +1,6 @@
 {
   "name": "bsb-native-example",
-  "dependencies": {
+  "devDependencies": {
     "bsb-native": "bsansouci/bsb-native"
   }
 }

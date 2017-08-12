@@ -1,7 +1,6 @@
 {
   "name": "bsb-native-example",
   "sources": "src",
-  "ocamlfind-dependencies": ["lwt.unix", "lwt.ppx"],
   "entries": [{
     "kind": "bytecode",
     "main": "Index"
