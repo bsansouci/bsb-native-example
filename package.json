@@ -1,5 +1,8 @@
 {
   "name": "bsb-native-example",
+  "scripts": {
+    "build": "bsb"
+  },
   "devDependencies": {
     "bsb-native": "bsansouci/bsb-native"
   }
