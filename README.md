@@ -10,7 +10,7 @@ For publishing on opam see [opam_of_packagejson](https://github.com/bsansouci/op
 `npm i`
 
 ## Build
-`./node_modules/.bin/bsb -backend bytecode -make-world`
+`npm run build`
 
 ## Run
 `./lib/bs/bytecode/index.byte`
