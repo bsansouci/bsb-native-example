@@ -9,8 +9,10 @@ For publishing on opam see [opam_of_packagejson](https://github.com/bsansouci/op
 ## Install
 `npm i`
 
-## Build
+## Build bytecode
 `npm run build`
+
+To build other targets (like native or js) you can call bsb directly (or add a script) with the `-backend` flag, like `./node_nodules/.bin/bsb -backend native` or `./node_nodules/.bin/bsb -backend js`.
 
 ## Run
 `./lib/bs/bytecode/index.byte`
