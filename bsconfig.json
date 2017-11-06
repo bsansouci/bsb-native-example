@@ -2,10 +2,11 @@
   "name": "bsb-native-example",
   "sources": "src",
   "entries": [{
-    "kind": "bytecode",
-    "main": "Index"
+    "backend": "bytecode",
+    "main-module": "Index"
   },{
-    "kind": "native",
-    "main": "Index"
-  }]
+    "backend": "native",
+    "main-module": "Index"
+  }],
+  "refmt": 3
 }
