@@ -1,8 +1,6 @@
 {
   "name": "bsb-native-example",
   "ocamlfind-dependencies": ["alcotest"],
-  // "bs-dependencies": ["a"],
-  // "bs-super-errors": true,
   "sources": [
     { "dir": "src", },
     {
@@ -28,5 +26,4 @@
     "number": "-31"
   },
   "refmt": 3,
-  // "global-ocaml-compiler": true
 }
