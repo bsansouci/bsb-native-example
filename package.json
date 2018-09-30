@@ -4,6 +4,6 @@
     "build": "bsb"
   },
   "devDependencies": {
-    "bs-platform": "bsansouci/bsb-native"
+    "bsb-native": "4.0.6"
   }
 }
